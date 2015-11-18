@@ -1,0 +1,3 @@
+git merge spec --no-commit --no-ff
+bundle
+bundle exec rspec
